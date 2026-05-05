@@ -1,11 +1,6 @@
-# ZMK Module Template
+This is a ZMK module containing a nice_view_zelda shield. This shield is based on the nice_view
+shield from ZMK (tag v0.3), with some Zelda images added.
 
-This repository contains a template for a ZMK module, as it would most frequently be used. 
-
-## Usage
+This module is created using [ZMK module template](https://github.com/zmkfirmware/zmk-module-template).
 
 Read through the [ZMK Module Creation](https://zmk.dev/docs/development/module-creation) page for details on how to configure this template.
-
-## More Info
-
-For more info on modules, you can read through  through the [Zephyr modules page](https://docs.zephyrproject.org/3.5.0/develop/modules.html) and [ZMK's page on using modules](https://zmk.dev/docs/features/modules). [Zephyr's west manifest page](https://docs.zephyrproject.org/3.5.0/develop/west/manifest.html#west-manifests) may also be of use.
