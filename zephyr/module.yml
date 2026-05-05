@@ -1,5 +1,4 @@
 name: zmk-component-nice_view_zelda
 build:
-  kconfig: Kconfig
   settings:
     board_root: .
